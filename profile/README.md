@@ -12,6 +12,7 @@ Total CMS stores content as JSON files, renders with Twig templates, and provide
 | [totalcms/totalcms](https://github.com/totalcms/totalcms) | Project skeleton for Composer |
 | [totalcms/docs.totalcms.co](https://github.com/totalcms/docs.totalcms.co) | Documentation site |
 | [totalcms/mcp.totalcms.co](https://github.com/totalcms/mcp.totalcms.co) | MCP server for AI integration |
+| [totalcms/extension-starter](https://github.com/totalcms/extension-starter) | Starter Extension |
 
 ## Get Started
 
